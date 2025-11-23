@@ -1,28 +1,28 @@
 {
   "keys": {
     "TESTE-123": {
-      "owner": "SEM DONO",
       "validFor": "10s",
       "active": true,
-      "firstLogin": null
+      "firstLogin": null,
+      "owner": "NINGUEM"
     },
     "VIP-999": {
-      "owner": "SEM DONO",
       "validFor": "3d",
       "active": true,
-      "firstLogin": null
+      "firstLogin": null,
+      "owner": "NINGUEM"
     },
     "PERMANENTE-001": {
-      "owner": "SEM DONO",
       "validFor": "perm",
       "active": true,
-      "firstLogin": null
+      "firstLogin": null,
+      "owner": "NINGUEM"
     },
     "DESATIVADA-01": {
-      "owner": "SEM DONO",
       "validFor": "5h",
       "active": false,
-      "firstLogin": null
+      "firstLogin": null,
+      "owner": "NULO"
     }
   }
 }
