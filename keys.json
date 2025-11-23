@@ -2,19 +2,23 @@
   "keys": {
     "TESTE-123": {
       "validFor": "10s",
-      "active": true
+      "active": true,
+      "firstLogin": null
     },
     "VIP-999": {
       "validFor": "3d",
-      "active": true
+      "active": true,
+      "firstLogin": null
     },
     "PERMANENTE-001": {
       "validFor": "perm",
-      "active": true
+      "active": true,
+      "firstLogin": null
     },
     "DESATIVADA-01": {
       "validFor": "5h",
-      "active": false
+      "active": false,
+      "firstLogin": null
     }
   }
 }
