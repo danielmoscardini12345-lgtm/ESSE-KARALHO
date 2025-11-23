@@ -1,23 +1,29 @@
 {
   "keys": {
-    "TESTE-123": {
-      "validFor": "10s",
-      "active": true,
-      "firstLogin": null
-    },
     "VIP-999": {
+      "firstLogin": null,
       "validFor": "3d",
-      "active": true,
-      "firstLogin": null
+      "active": true
     },
     "PERMANENTE-001": {
+      "firstLogin": null,
       "validFor": "perm",
-      "active": true,
-      "firstLogin": null
+      "active": true
     },
     "DESATIVADA-01": {
+      "firstLogin": null,
       "validFor": "5h",
-      "active": false,
+      "active": false
+    },
+    "TESTE-123": {
+      "firstLogin": null,
+      "validFor": "10s",
+      "active": true
+    },
+    "owner": {
+      "owner": "spark",
+      "validFor": "10s",
+      "active": true,
       "firstLogin": null
     }
   }
